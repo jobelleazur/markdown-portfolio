@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# Here is a list of my favorite things:
+- Being productive
+- Developing UI
+- Exploring new places
+- Admiring art and architecture
+- Trying out new food
+- Cooking on weekends
+- Netflix and chill
