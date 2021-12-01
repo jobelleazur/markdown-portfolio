@@ -5,4 +5,4 @@
 - Admiring art and architecture
 - Trying out new food
 - Cooking on weekends
-- Netflix and chill
+- Netflix
